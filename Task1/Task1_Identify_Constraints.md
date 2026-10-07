@@ -26,11 +26,11 @@ C10: If communication is lost, the system must close the barrier and alert the c
 
 **Summary**
 
-**Group	                                          Constraints**
-Barrier open/close rules	                        C1, C3, C4
+**Group	**                                          **Constraints**
+Barrier open/close rules	                            C1, C3, C4
 
-Warnings and signals	                            C2, C6, C7
+Warnings and signals	                                C2, C6, C7
 
-When a train may pass	                            C5
+When a train may pass	                                C5
 
-Failure and emergency handling	                 C8, C9, C10,
+Failure and emergency handling	                      C8, C9, C10,
