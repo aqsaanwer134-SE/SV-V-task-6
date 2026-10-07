@@ -24,13 +24,3 @@ C9: If a barrier failure is detected, the system must alert the control center a
 
 C10: If communication is lost, the system must close the barrier and alert the control center (using a backup channel). Reason: Without communication the train status cannot be verified, so the system must default to the safe state.
 
-**Summary**
-
-**Group	**                                          **Constraints**
-Barrier open/close rules	                            C1, C3, C4
-
-Warnings and signals	                                C2, C6, C7
-
-When a train may pass	                                C5
-
-Failure and emergency handling	                      C8, C9, C10,
