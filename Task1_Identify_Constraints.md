@@ -1,4 +1,4 @@
-# Task 1 — Identify Constraints
+# Task 1 Identify Constraints
 
 **System:** Automated Railway Level-Crossing Control System (ARLCCS)
 
