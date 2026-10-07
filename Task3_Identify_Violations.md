@@ -1,4 +1,4 @@
-# Task 3 — Identify Constraint Violations
+# Task 3  Identify Constraint Violations
 
 One violation scenario for each of the 12 formalized constraints (the task requires at least 8).
 
