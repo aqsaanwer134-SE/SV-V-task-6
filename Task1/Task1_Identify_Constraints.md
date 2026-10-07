@@ -1,8 +1,8 @@
 **Task 1**  **Identify Constraints**
 
-**System: Automated Railway Level-Crossing Control System (ARLCCS) Role: Software Verification Team
+**System: Automated Railway Level-Crossing Control System (ARLCCS) Role: Software Verification Team**
 
-The constraints below are rules the system must always satisfy. Each one restricts what the system is allowed or not allowed to do, and covers barrier control, warnings, train passage, and component failures.**
+**The constraints below are rules the system must always satisfy. Each one restricts what the system is allowed or not allowed to do, and covers barrier control, warnings, train passage, and component failures.**
 
 C1: The barrier must not open while a train is present in the crossing. Reason: Opening the barrier could allow road traffic to enter the crossing while the train is passing.
 
